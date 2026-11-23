@@ -1,0 +1,6 @@
+{
+  "name": "dart-flutter-plugin",
+  "version": "1.0.0",
+  "hooks": "./.claude-plugin/hooks/hooks.json",
+  "description": "Custom workflow components for writing and working with Dart and Flutter"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "matt-plugins",
+  "owner": {
+    "name": "Matt Solle"
+  },
+  "plugins": [
+    {
+      "name": "dart-flutter-plugin",
+      "source": "./",
+      "description": "Custom workflow components for writing and working with Dart and Flutter"
+    }
+  ]
+}
